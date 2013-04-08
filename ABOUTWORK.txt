@@ -1,0 +1,5 @@
+Game created with python using the pygame module.
+
+Developed as part of final project for course taken at Springfield College.
+Shows the implementation of object orientated programming thorugh the use
+of video game design and programming.

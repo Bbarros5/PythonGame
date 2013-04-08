@@ -1,0 +1,8 @@
+Sound sources
+
+
+http://soundbible.com/1780-Bow-Fire-Arrow.html
+
+Used part of the MiniGui.py program created by Andy Harris for the Labels and Buttons
+code is located in the buttons program.
+
